@@ -1,0 +1,21 @@
+.heading{
+    font-size: 3rem;
+    font-weight: 900;
+    color:darkslategray ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', Verdana, Geneva, Tahoma, sans-serif, 'Arial Narrow', Arial, sans-serif, Courier, monospace;
+    
+}
+
+.subheading{
+    font-size: 2rem;
+    font-weight: 900;
+    color:darkslategray ;
+    font-family: fantasy;
+}
+.text {
+    font-size: 1rem;
+    font-weight: 400;
+    color:darkslategray ;
+    font-family: fantasy;
+    font-style: italic;
+}
